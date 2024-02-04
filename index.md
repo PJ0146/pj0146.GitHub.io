@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [DoorDash Analytics Project](/bank)
+#### [DoorDash Analytics Project](/[bank](https://www.linkedin.com/pulse/dive-doordash-data-phil-johnson/))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
